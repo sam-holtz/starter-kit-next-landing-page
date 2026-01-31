@@ -72,11 +72,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 Deploy with [Vercel](https://vercel.com/new). After deployment, update the preview URL in Contento Site Settings to your production domain.
 
-## Contact
-
-- **Email:** [samholtz1205@gmail.com](mailto:samholtz1205@gmail.com)
-- **GitHub:** [github.com/sam-holtz](https://github.com/sam-holtz)
-
 ## License
 
 MIT

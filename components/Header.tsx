@@ -4,7 +4,7 @@ import { BlockData, ContentData } from '@gocontento/client'
 import Logo from '@/images/Logo'
 import Link from 'next/link'
 import { Disclosure } from '@headlessui/react'
-import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
+import { Bars3Icon, XMarkIcon } from '@heroicons/react/16/solid'
 import { usePathname } from 'next/navigation'
 import { classNames } from '@/utils/ClassNames'
 

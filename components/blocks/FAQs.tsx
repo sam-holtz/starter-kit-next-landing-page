@@ -2,7 +2,7 @@ import { ContentLinks } from '@/types/types'
 import { classNames } from '@/utils/ClassNames'
 import { BlockData } from '@gocontento/client'
 import { useState } from 'react'
-import { PlusIcon } from '@heroicons/react/24/outline'
+import { PlusIcon } from '@heroicons/react/16/solid'
 
 export default function FAQs({ block }: { block: BlockData }) {
   return (

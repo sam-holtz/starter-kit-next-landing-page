@@ -4,7 +4,7 @@ A modern, composable landing page template built with [Next.js](https://nextjs.o
 
 ## Tech Stack
 
-- **Framework:** Next.js 15 (App Router)
+- **Framework:** Next.js 14 (App Router)
 - **Styling:** Tailwind CSS
 - **CMS:** Contento
 - **UI:** Headless UI, Heroicons

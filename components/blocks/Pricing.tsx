@@ -1,6 +1,6 @@
 import { BlockData, FieldData } from '@gocontento/client'
 import Link from 'next/link'
-import { CheckIcon } from '@heroicons/react/24/solid'
+import { CheckIcon } from '@heroicons/react/16/solid'
 
 export default function Pricing({ block }: { block: BlockData }) {
   return (
